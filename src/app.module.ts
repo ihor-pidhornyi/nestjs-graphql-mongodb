@@ -19,5 +19,4 @@ import { Lesson } from './lesson/lesson.entity';
     }),
   ],
 })
-export class AppModule {
-}
+export class AppModule {}
